@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\rustTodo\rust\target\debug\deps\libhttparse-c64c6236c5d75696.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src/lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs
+
+C:\Users\HP\Documents\rustTodo\rust\target\debug\deps\httparse-c64c6236c5d75696.d: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src/lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src/lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs:
